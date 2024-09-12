@@ -1,0 +1,3 @@
+[submodule "9_contrastive_learning"]
+	path = 9_contrastive_learning
+	url = https://github.com/mx41-m/Contrastive-Learning.git
